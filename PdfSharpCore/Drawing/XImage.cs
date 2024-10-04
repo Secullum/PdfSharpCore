@@ -36,7 +36,7 @@ using MigraDocCore.DocumentObjectModel.MigraDoc.DocumentObjectModel.Shapes;
 using PdfSharpCore.Pdf.IO.enums;
 using static MigraDocCore.DocumentObjectModel.MigraDoc.DocumentObjectModel.Shapes.ImageSource;
 using PdfSharpCore.Utils;
-using SixLabors.ImageSharp.PixelFormats;
+using Compatibility.SixLabors.ImageSharp.PixelFormats;
 
 namespace PdfSharpCore.Drawing
 {

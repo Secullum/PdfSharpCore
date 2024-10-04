@@ -1,12 +1,12 @@
-using SixLabors.ImageSharp;
-using SixLabors.ImageSharp.PixelFormats;
+using Compatibility.SixLabors.ImageSharp;
+using Compatibility.SixLabors.ImageSharp.PixelFormats;
 using MigraDocCore.DocumentObjectModel.MigraDoc.DocumentObjectModel.Shapes;
 using System;
 using System.IO;
-using SixLabors.ImageSharp.Formats;
-using SixLabors.ImageSharp.Formats.Bmp;
-using SixLabors.ImageSharp.Formats.Jpeg;
-using SixLabors.ImageSharp.Formats.Png;
+using Compatibility.SixLabors.ImageSharp.Formats;
+using Compatibility.SixLabors.ImageSharp.Formats.Bmp;
+using Compatibility.SixLabors.ImageSharp.Formats.Jpeg;
+using Compatibility.SixLabors.ImageSharp.Formats.Png;
 
 namespace PdfSharpCore.Utils
 {

@@ -8,7 +8,7 @@ using PdfSharpCore.Internal;
 using PdfSharpCore.Drawing;
 using PdfSharpCore.Fonts;
 
-using SixLabors.Fonts;
+using Compatibility.SixLabors.Fonts;
 
 
 namespace PdfSharpCore.Utils

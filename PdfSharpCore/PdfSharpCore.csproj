@@ -47,9 +47,9 @@ PdfSharpCore is a partial port of PdfSharp.Xamarin for .NET Core Additionally Mi
     <Folder Include="Resources\images\" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Compatibility.SixLabors.Fonts" Version="0.0.1" />
+    <PackageReference Include="Compatibility.SixLabors.ImageSharp" Version="0.0.1" />
     <PackageReference Include="SharpZipLib" Version="1.4.2" />
-    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.4" />
-    <PackageReference Include="SixLabors.Fonts" Version="1.0.0-beta17" />
   </ItemGroup>
 
   <ItemGroup>
